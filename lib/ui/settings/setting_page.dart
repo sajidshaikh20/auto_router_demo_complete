@@ -23,7 +23,8 @@ class SettingPage extends StatelessWidget {
                   icon: Icon(Icons.table_restaurant_sharp),
                   text: "Status",
                 )
-              ]),
+              ]
+              ),
             ),
             body: child,
           );
